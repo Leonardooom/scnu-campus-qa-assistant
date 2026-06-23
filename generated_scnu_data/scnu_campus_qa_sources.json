@@ -1,0 +1,1402 @@
+[
+  {
+    "category": "教务、选课与学籍",
+    "question": "本科生在哪里查看培养方案？",
+    "official_source": "https://jw.scnu.edu.cn/",
+    "verified_on": "2026-06-23",
+    "volatile": true
+  },
+  {
+    "category": "教务、选课与学籍",
+    "question": "怎么确认一门课是不是必修课？",
+    "official_source": "https://jw.scnu.edu.cn/",
+    "verified_on": "2026-06-23",
+    "volatile": true
+  },
+  {
+    "category": "教务、选课与学籍",
+    "question": "新学期课表在哪里查？",
+    "official_source": "https://jw.scnu.edu.cn/",
+    "verified_on": "2026-06-23",
+    "volatile": true
+  },
+  {
+    "category": "教务、选课与学籍",
+    "question": "选课前需要做哪些准备？",
+    "official_source": "https://jw.scnu.edu.cn/",
+    "verified_on": "2026-06-23",
+    "volatile": true
+  },
+  {
+    "category": "教务、选课与学籍",
+    "question": "第一轮选课没选上怎么办？",
+    "official_source": "https://jw.scnu.edu.cn/",
+    "verified_on": "2026-06-23",
+    "volatile": true
+  },
+  {
+    "category": "教务、选课与学籍",
+    "question": "课程时间冲突还能选吗？",
+    "official_source": "https://jw.scnu.edu.cn/",
+    "verified_on": "2026-06-23",
+    "volatile": true
+  },
+  {
+    "category": "教务、选课与学籍",
+    "question": "选错课怎么退？",
+    "official_source": "https://jw.scnu.edu.cn/",
+    "verified_on": "2026-06-23",
+    "volatile": true
+  },
+  {
+    "category": "教务、选课与学籍",
+    "question": "通识选修课怎么选？",
+    "official_source": "https://jw.scnu.edu.cn/",
+    "verified_on": "2026-06-23",
+    "volatile": true
+  },
+  {
+    "category": "教务、选课与学籍",
+    "question": "跨校区课程能不能选？",
+    "official_source": "https://jw.scnu.edu.cn/",
+    "verified_on": "2026-06-23",
+    "volatile": true
+  },
+  {
+    "category": "教务、选课与学籍",
+    "question": "想跨专业选课该怎么操作？",
+    "official_source": "https://jw.scnu.edu.cn/",
+    "verified_on": "2026-06-23",
+    "volatile": true
+  },
+  {
+    "category": "教务、选课与学籍",
+    "question": "辅修专业在哪里报名？",
+    "official_source": "https://jw.scnu.edu.cn/",
+    "verified_on": "2026-06-23",
+    "volatile": true
+  },
+  {
+    "category": "教务、选课与学籍",
+    "question": "想转专业要满足什么流程？",
+    "official_source": "https://jw.scnu.edu.cn/",
+    "verified_on": "2026-06-23",
+    "volatile": true
+  },
+  {
+    "category": "教务、选课与学籍",
+    "question": "休学应该怎么办理？",
+    "official_source": "https://jw.scnu.edu.cn/",
+    "verified_on": "2026-06-23",
+    "volatile": true
+  },
+  {
+    "category": "教务、选课与学籍",
+    "question": "休学后如何申请复学？",
+    "official_source": "https://jw.scnu.edu.cn/",
+    "verified_on": "2026-06-23",
+    "volatile": true
+  },
+  {
+    "category": "教务、选课与学籍",
+    "question": "退学手续如何办理？",
+    "official_source": "https://jw.scnu.edu.cn/",
+    "verified_on": "2026-06-23",
+    "volatile": true
+  },
+  {
+    "category": "教务、选课与学籍",
+    "question": "保留学籍和休学有什么区别？",
+    "official_source": "https://jw.scnu.edu.cn/",
+    "verified_on": "2026-06-23",
+    "volatile": true
+  },
+  {
+    "category": "教务、选课与学籍",
+    "question": "学籍信息写错了怎么改？",
+    "official_source": "https://jw.scnu.edu.cn/",
+    "verified_on": "2026-06-23",
+    "volatile": true
+  },
+  {
+    "category": "教务、选课与学籍",
+    "question": "在哪里核对自己的学籍状态？",
+    "official_source": "https://jw.scnu.edu.cn/",
+    "verified_on": "2026-06-23",
+    "volatile": true
+  },
+  {
+    "category": "教务、选课与学籍",
+    "question": "如何开具在读证明？",
+    "official_source": "https://jw.scnu.edu.cn/",
+    "verified_on": "2026-06-23",
+    "volatile": true
+  },
+  {
+    "category": "教务、选课与学籍",
+    "question": "在读证明需要盖章吗？",
+    "official_source": "https://jw.scnu.edu.cn/",
+    "verified_on": "2026-06-23",
+    "volatile": true
+  },
+  {
+    "category": "教务、选课与学籍",
+    "question": "学生证丢了怎么补办？",
+    "official_source": "https://jw.scnu.edu.cn/",
+    "verified_on": "2026-06-23",
+    "volatile": true
+  },
+  {
+    "category": "教务、选课与学籍",
+    "question": "学生证火车优惠区间怎么修改？",
+    "official_source": "https://jw.scnu.edu.cn/",
+    "verified_on": "2026-06-23",
+    "volatile": true
+  },
+  {
+    "category": "教务、选课与学籍",
+    "question": "请假会影响课程考勤吗？",
+    "official_source": "https://jw.scnu.edu.cn/",
+    "verified_on": "2026-06-23",
+    "volatile": true
+  },
+  {
+    "category": "教务、选课与学籍",
+    "question": "课程免修如何申请？",
+    "official_source": "https://jw.scnu.edu.cn/",
+    "verified_on": "2026-06-23",
+    "volatile": true
+  },
+  {
+    "category": "教务、选课与学籍",
+    "question": "课程免听如何申请？",
+    "official_source": "https://jw.scnu.edu.cn/",
+    "verified_on": "2026-06-23",
+    "volatile": true
+  },
+  {
+    "category": "教务、选课与学籍",
+    "question": "体育课因伤不能参加怎么办？",
+    "official_source": "https://jw.scnu.edu.cn/",
+    "verified_on": "2026-06-23",
+    "volatile": true
+  },
+  {
+    "category": "教务、选课与学籍",
+    "question": "大学英语课程如何分级？",
+    "official_source": "https://jw.scnu.edu.cn/",
+    "verified_on": "2026-06-23",
+    "volatile": true
+  },
+  {
+    "category": "教务、选课与学籍",
+    "question": "创新创业学分在哪里认定？",
+    "official_source": "https://jw.scnu.edu.cn/",
+    "verified_on": "2026-06-23",
+    "volatile": true
+  },
+  {
+    "category": "教务、选课与学籍",
+    "question": "第二课堂成绩能替代专业课学分吗？",
+    "official_source": "https://jw.scnu.edu.cn/",
+    "verified_on": "2026-06-23",
+    "volatile": true
+  },
+  {
+    "category": "教务、选课与学籍",
+    "question": "交换学习期间的课程怎么认定？",
+    "official_source": "https://jw.scnu.edu.cn/",
+    "verified_on": "2026-06-23",
+    "volatile": true
+  },
+  {
+    "category": "教务、选课与学籍",
+    "question": "外校网课能认定为华师学分吗？",
+    "official_source": "https://jw.scnu.edu.cn/",
+    "verified_on": "2026-06-23",
+    "volatile": true
+  },
+  {
+    "category": "教务、选课与学籍",
+    "question": "重修课程怎么报名？",
+    "official_source": "https://jw.scnu.edu.cn/",
+    "verified_on": "2026-06-23",
+    "volatile": true
+  },
+  {
+    "category": "教务、选课与学籍",
+    "question": "重修后成绩如何记录？",
+    "official_source": "https://jw.scnu.edu.cn/",
+    "verified_on": "2026-06-23",
+    "volatile": true
+  },
+  {
+    "category": "教务、选课与学籍",
+    "question": "已经及格的课程可以重修刷分吗？",
+    "official_source": "https://jw.scnu.edu.cn/",
+    "verified_on": "2026-06-23",
+    "volatile": true
+  },
+  {
+    "category": "教务、选课与学籍",
+    "question": "毕业班还差一门课怎么办？",
+    "official_source": "https://jw.scnu.edu.cn/",
+    "verified_on": "2026-06-23",
+    "volatile": true
+  },
+  {
+    "category": "教务、选课与学籍",
+    "question": "课程停开但培养方案要求修读怎么办？",
+    "official_source": "https://jw.scnu.edu.cn/",
+    "verified_on": "2026-06-23",
+    "volatile": true
+  },
+  {
+    "category": "教务、选课与学籍",
+    "question": "如何查询教室临时调整？",
+    "official_source": "https://jw.scnu.edu.cn/",
+    "verified_on": "2026-06-23",
+    "volatile": true
+  },
+  {
+    "category": "教务、选课与学籍",
+    "question": "教师临时停课后一定会补课吗？",
+    "official_source": "https://jw.scnu.edu.cn/",
+    "verified_on": "2026-06-23",
+    "volatile": true
+  },
+  {
+    "category": "教务、选课与学籍",
+    "question": "找不到任课教师联系方式怎么办？",
+    "official_source": "https://jw.scnu.edu.cn/",
+    "verified_on": "2026-06-23",
+    "volatile": true
+  },
+  {
+    "category": "教务、选课与学籍",
+    "question": "教务系统选课结果和课程群名单不一致怎么办？",
+    "official_source": "https://jw.scnu.edu.cn/",
+    "verified_on": "2026-06-23",
+    "volatile": true
+  },
+  {
+    "category": "考试、成绩与毕业",
+    "question": "考试安排在哪里查询？",
+    "official_source": "https://jw.scnu.edu.cn/",
+    "verified_on": "2026-06-23",
+    "volatile": true
+  },
+  {
+    "category": "考试、成绩与毕业",
+    "question": "参加考试必须带什么证件？",
+    "official_source": "https://jw.scnu.edu.cn/",
+    "verified_on": "2026-06-23",
+    "volatile": true
+  },
+  {
+    "category": "考试、成绩与毕业",
+    "question": "考试迟到了还能进考场吗？",
+    "official_source": "https://jw.scnu.edu.cn/",
+    "verified_on": "2026-06-23",
+    "volatile": true
+  },
+  {
+    "category": "考试、成绩与毕业",
+    "question": "考试冲突怎么办？",
+    "official_source": "https://jw.scnu.edu.cn/",
+    "verified_on": "2026-06-23",
+    "volatile": true
+  },
+  {
+    "category": "考试、成绩与毕业",
+    "question": "生病不能参加考试怎么申请缓考？",
+    "official_source": "https://jw.scnu.edu.cn/",
+    "verified_on": "2026-06-23",
+    "volatile": true
+  },
+  {
+    "category": "考试、成绩与毕业",
+    "question": "缺考和缓考有什么区别？",
+    "official_source": "https://jw.scnu.edu.cn/",
+    "verified_on": "2026-06-23",
+    "volatile": true
+  },
+  {
+    "category": "考试、成绩与毕业",
+    "question": "考试违纪会有什么后果？",
+    "official_source": "https://jw.scnu.edu.cn/",
+    "verified_on": "2026-06-23",
+    "volatile": true
+  },
+  {
+    "category": "考试、成绩与毕业",
+    "question": "成绩什么时候可以查询？",
+    "official_source": "https://jw.scnu.edu.cn/",
+    "verified_on": "2026-06-23",
+    "volatile": true
+  },
+  {
+    "category": "考试、成绩与毕业",
+    "question": "对期末成绩有异议怎么办？",
+    "official_source": "https://jw.scnu.edu.cn/",
+    "verified_on": "2026-06-23",
+    "volatile": true
+  },
+  {
+    "category": "考试、成绩与毕业",
+    "question": "成绩显示缺考但我参加了考试怎么办？",
+    "official_source": "https://jw.scnu.edu.cn/",
+    "verified_on": "2026-06-23",
+    "volatile": true
+  },
+  {
+    "category": "考试、成绩与毕业",
+    "question": "课程成绩由哪些部分组成？",
+    "official_source": "https://jw.scnu.edu.cn/",
+    "verified_on": "2026-06-23",
+    "volatile": true
+  },
+  {
+    "category": "考试、成绩与毕业",
+    "question": "补考资格怎么确认？",
+    "official_source": "https://jw.scnu.edu.cn/",
+    "verified_on": "2026-06-23",
+    "volatile": true
+  },
+  {
+    "category": "考试、成绩与毕业",
+    "question": "补考需要自己报名吗？",
+    "official_source": "https://jw.scnu.edu.cn/",
+    "verified_on": "2026-06-23",
+    "volatile": true
+  },
+  {
+    "category": "考试、成绩与毕业",
+    "question": "补考成绩什么时候录入？",
+    "official_source": "https://jw.scnu.edu.cn/",
+    "verified_on": "2026-06-23",
+    "volatile": true
+  },
+  {
+    "category": "考试、成绩与毕业",
+    "question": "绩点怎么核对？",
+    "official_source": "https://jw.scnu.edu.cn/",
+    "verified_on": "2026-06-23",
+    "volatile": true
+  },
+  {
+    "category": "考试、成绩与毕业",
+    "question": "成绩单在哪里打印？",
+    "official_source": "https://jw.scnu.edu.cn/",
+    "verified_on": "2026-06-23",
+    "volatile": true
+  },
+  {
+    "category": "考试、成绩与毕业",
+    "question": "英文成绩单怎么申请？",
+    "official_source": "https://jw.scnu.edu.cn/",
+    "verified_on": "2026-06-23",
+    "volatile": true
+  },
+  {
+    "category": "考试、成绩与毕业",
+    "question": "毕业审核主要看什么？",
+    "official_source": "https://jw.scnu.edu.cn/",
+    "verified_on": "2026-06-23",
+    "volatile": true
+  },
+  {
+    "category": "考试、成绩与毕业",
+    "question": "如何确认自己是否满足毕业学分？",
+    "official_source": "https://jw.scnu.edu.cn/",
+    "verified_on": "2026-06-23",
+    "volatile": true
+  },
+  {
+    "category": "考试、成绩与毕业",
+    "question": "毕业论文在哪个系统提交？",
+    "official_source": "https://jw.scnu.edu.cn/",
+    "verified_on": "2026-06-23",
+    "volatile": true
+  },
+  {
+    "category": "考试、成绩与毕业",
+    "question": "毕业论文查重不通过怎么办？",
+    "official_source": "https://jw.scnu.edu.cn/",
+    "verified_on": "2026-06-23",
+    "volatile": true
+  },
+  {
+    "category": "考试、成绩与毕业",
+    "question": "学位授予和毕业有什么区别？",
+    "official_source": "https://jw.scnu.edu.cn/",
+    "verified_on": "2026-06-23",
+    "volatile": true
+  },
+  {
+    "category": "考试、成绩与毕业",
+    "question": "毕业证信息在哪里核对？",
+    "official_source": "https://jw.scnu.edu.cn/",
+    "verified_on": "2026-06-23",
+    "volatile": true
+  },
+  {
+    "category": "考试、成绩与毕业",
+    "question": "结业后能否申请换发毕业证？",
+    "official_source": "https://jw.scnu.edu.cn/",
+    "verified_on": "2026-06-23",
+    "volatile": true
+  },
+  {
+    "category": "考试、成绩与毕业",
+    "question": "毕业前档案和成绩问题找谁？",
+    "official_source": "https://jw.scnu.edu.cn/",
+    "verified_on": "2026-06-23",
+    "volatile": true
+  },
+  {
+    "category": "校园卡、网络及信息系统",
+    "question": "新生怎么领取校园卡？",
+    "official_source": "https://info.scnu.edu.cn/",
+    "verified_on": "2026-06-23",
+    "volatile": true
+  },
+  {
+    "category": "校园卡、网络及信息系统",
+    "question": "校园卡丢了第一步做什么？",
+    "official_source": "https://info.scnu.edu.cn/",
+    "verified_on": "2026-06-23",
+    "volatile": true
+  },
+  {
+    "category": "校园卡、网络及信息系统",
+    "question": "校园卡怎么充值？",
+    "official_source": "https://info.scnu.edu.cn/",
+    "verified_on": "2026-06-23",
+    "volatile": true
+  },
+  {
+    "category": "校园卡、网络及信息系统",
+    "question": "校园卡充值不到账怎么办？",
+    "official_source": "https://info.scnu.edu.cn/",
+    "verified_on": "2026-06-23",
+    "volatile": true
+  },
+  {
+    "category": "校园卡、网络及信息系统",
+    "question": "校园卡消费记录在哪里查？",
+    "official_source": "https://info.scnu.edu.cn/",
+    "verified_on": "2026-06-23",
+    "volatile": true
+  },
+  {
+    "category": "校园卡、网络及信息系统",
+    "question": "换卡后旧卡余额会保留吗？",
+    "official_source": "https://info.scnu.edu.cn/",
+    "verified_on": "2026-06-23",
+    "volatile": true
+  },
+  {
+    "category": "校园卡、网络及信息系统",
+    "question": "统一身份认证账号是什么？",
+    "official_source": "https://info.scnu.edu.cn/",
+    "verified_on": "2026-06-23",
+    "volatile": true
+  },
+  {
+    "category": "校园卡、网络及信息系统",
+    "question": "忘记统一身份认证密码怎么办？",
+    "official_source": "https://info.scnu.edu.cn/",
+    "verified_on": "2026-06-23",
+    "volatile": true
+  },
+  {
+    "category": "校园卡、网络及信息系统",
+    "question": "统一身份认证提示账号被锁怎么办？",
+    "official_source": "https://info.scnu.edu.cn/",
+    "verified_on": "2026-06-23",
+    "volatile": true
+  },
+  {
+    "category": "校园卡、网络及信息系统",
+    "question": "校园网怎么登录？",
+    "official_source": "https://info.scnu.edu.cn/",
+    "verified_on": "2026-06-23",
+    "volatile": true
+  },
+  {
+    "category": "校园卡、网络及信息系统",
+    "question": "宿舍校园网连不上怎么报修？",
+    "official_source": "https://info.scnu.edu.cn/",
+    "verified_on": "2026-06-23",
+    "volatile": true
+  },
+  {
+    "category": "校园卡、网络及信息系统",
+    "question": "校园网能共享给别人吗？",
+    "official_source": "https://info.scnu.edu.cn/",
+    "verified_on": "2026-06-23",
+    "volatile": true
+  },
+  {
+    "category": "校园卡、网络及信息系统",
+    "question": "如何连接学校无线网络？",
+    "official_source": "https://info.scnu.edu.cn/",
+    "verified_on": "2026-06-23",
+    "volatile": true
+  },
+  {
+    "category": "校园卡、网络及信息系统",
+    "question": "校外怎么访问校内资源？",
+    "official_source": "https://info.scnu.edu.cn/",
+    "verified_on": "2026-06-23",
+    "volatile": true
+  },
+  {
+    "category": "校园卡、网络及信息系统",
+    "question": "VPN登录失败怎么处理？",
+    "official_source": "https://info.scnu.edu.cn/",
+    "verified_on": "2026-06-23",
+    "volatile": true
+  },
+  {
+    "category": "校园卡、网络及信息系统",
+    "question": "收到统一身份认证异常登录提醒怎么办？",
+    "official_source": "https://info.scnu.edu.cn/",
+    "verified_on": "2026-06-23",
+    "volatile": true
+  },
+  {
+    "category": "校园卡、网络及信息系统",
+    "question": "学校邮箱怎么开通？",
+    "official_source": "https://info.scnu.edu.cn/",
+    "verified_on": "2026-06-23",
+    "volatile": true
+  },
+  {
+    "category": "校园卡、网络及信息系统",
+    "question": "毕业后学校账号还能用吗？",
+    "official_source": "https://info.scnu.edu.cn/",
+    "verified_on": "2026-06-23",
+    "volatile": true
+  },
+  {
+    "category": "校园卡、网络及信息系统",
+    "question": "教务系统页面打不开怎么办？",
+    "official_source": "https://info.scnu.edu.cn/",
+    "verified_on": "2026-06-23",
+    "volatile": true
+  },
+  {
+    "category": "校园卡、网络及信息系统",
+    "question": "如何防范校园钓鱼链接？",
+    "official_source": "https://info.scnu.edu.cn/",
+    "verified_on": "2026-06-23",
+    "volatile": true
+  },
+  {
+    "category": "宿舍、后勤与报修",
+    "question": "宿舍水管漏水怎么报修？",
+    "official_source": "https://hqc.scnu.edu.cn/",
+    "verified_on": "2026-06-23",
+    "volatile": true
+  },
+  {
+    "category": "宿舍、后勤与报修",
+    "question": "宿舍停电了怎么办？",
+    "official_source": "https://hqc.scnu.edu.cn/",
+    "verified_on": "2026-06-23",
+    "volatile": true
+  },
+  {
+    "category": "宿舍、后勤与报修",
+    "question": "宿舍插座冒烟怎么处理？",
+    "official_source": "https://hqc.scnu.edu.cn/",
+    "verified_on": "2026-06-23",
+    "volatile": true
+  },
+  {
+    "category": "宿舍、后勤与报修",
+    "question": "空调坏了在哪里报修？",
+    "official_source": "https://hqc.scnu.edu.cn/",
+    "verified_on": "2026-06-23",
+    "volatile": true
+  },
+  {
+    "category": "宿舍、后勤与报修",
+    "question": "宿舍门锁坏了怎么办？",
+    "official_source": "https://hqc.scnu.edu.cn/",
+    "verified_on": "2026-06-23",
+    "volatile": true
+  },
+  {
+    "category": "宿舍、后勤与报修",
+    "question": "宿舍网络故障属于后勤报修吗？",
+    "official_source": "https://hqc.scnu.edu.cn/",
+    "verified_on": "2026-06-23",
+    "volatile": true
+  },
+  {
+    "category": "宿舍、后勤与报修",
+    "question": "宿舍可以使用大功率电器吗？",
+    "official_source": "https://hqc.scnu.edu.cn/",
+    "verified_on": "2026-06-23",
+    "volatile": true
+  },
+  {
+    "category": "宿舍、后勤与报修",
+    "question": "发现宿舍消防通道被堵怎么办？",
+    "official_source": "https://hqc.scnu.edu.cn/",
+    "verified_on": "2026-06-23",
+    "volatile": true
+  },
+  {
+    "category": "宿舍、后勤与报修",
+    "question": "晚归进不了宿舍怎么办？",
+    "official_source": "https://hqc.scnu.edu.cn/",
+    "verified_on": "2026-06-23",
+    "volatile": true
+  },
+  {
+    "category": "宿舍、后勤与报修",
+    "question": "宿舍能留宿校外朋友吗？",
+    "official_source": "https://hqc.scnu.edu.cn/",
+    "verified_on": "2026-06-23",
+    "volatile": true
+  },
+  {
+    "category": "宿舍、后勤与报修",
+    "question": "如何申请调换宿舍？",
+    "official_source": "https://hqc.scnu.edu.cn/",
+    "verified_on": "2026-06-23",
+    "volatile": true
+  },
+  {
+    "category": "宿舍、后勤与报修",
+    "question": "同宿舍矛盾严重怎么办？",
+    "official_source": "https://hqc.scnu.edu.cn/",
+    "verified_on": "2026-06-23",
+    "volatile": true
+  },
+  {
+    "category": "宿舍、后勤与报修",
+    "question": "宿舍公共设施损坏由谁负责？",
+    "official_source": "https://hqc.scnu.edu.cn/",
+    "verified_on": "2026-06-23",
+    "volatile": true
+  },
+  {
+    "category": "宿舍、后勤与报修",
+    "question": "毕业生什么时候搬离宿舍？",
+    "official_source": "https://hqc.scnu.edu.cn/",
+    "verified_on": "2026-06-23",
+    "volatile": true
+  },
+  {
+    "category": "宿舍、后勤与报修",
+    "question": "寒暑假能留校住宿吗？",
+    "official_source": "https://hqc.scnu.edu.cn/",
+    "verified_on": "2026-06-23",
+    "volatile": true
+  },
+  {
+    "category": "宿舍、后勤与报修",
+    "question": "宿舍电费怎么查询和缴纳？",
+    "official_source": "https://hqc.scnu.edu.cn/",
+    "verified_on": "2026-06-23",
+    "volatile": true
+  },
+  {
+    "category": "宿舍、后勤与报修",
+    "question": "食堂消费有问题找谁？",
+    "official_source": "https://hqc.scnu.edu.cn/",
+    "verified_on": "2026-06-23",
+    "volatile": true
+  },
+  {
+    "category": "宿舍、后勤与报修",
+    "question": "在食堂发现食品安全问题怎么办？",
+    "official_source": "https://hqc.scnu.edu.cn/",
+    "verified_on": "2026-06-23",
+    "volatile": true
+  },
+  {
+    "category": "宿舍、后勤与报修",
+    "question": "校园公共区域发现设施损坏怎么办？",
+    "official_source": "https://hqc.scnu.edu.cn/",
+    "verified_on": "2026-06-23",
+    "volatile": true
+  },
+  {
+    "category": "宿舍、后勤与报修",
+    "question": "怎么查询后勤报修进度？",
+    "official_source": "https://hqc.scnu.edu.cn/",
+    "verified_on": "2026-06-23",
+    "volatile": true
+  },
+  {
+    "category": "奖助学金、评优及勤工助学",
+    "question": "奖学金通知在哪里看？",
+    "official_source": "http://xsb.scnu.edu.cn/",
+    "verified_on": "2026-06-23",
+    "volatile": true
+  },
+  {
+    "category": "奖助学金、评优及勤工助学",
+    "question": "综合奖学金怎么申请？",
+    "official_source": "http://xsb.scnu.edu.cn/",
+    "verified_on": "2026-06-23",
+    "volatile": true
+  },
+  {
+    "category": "奖助学金、评优及勤工助学",
+    "question": "国家奖学金和国家励志奖学金能同时拿吗？",
+    "official_source": "http://xsb.scnu.edu.cn/",
+    "verified_on": "2026-06-23",
+    "volatile": true
+  },
+  {
+    "category": "奖助学金、评优及勤工助学",
+    "question": "家庭经济困难学生怎么认定？",
+    "official_source": "http://xsb.scnu.edu.cn/",
+    "verified_on": "2026-06-23",
+    "volatile": true
+  },
+  {
+    "category": "奖助学金、评优及勤工助学",
+    "question": "助学金在哪里申请？",
+    "official_source": "http://xsb.scnu.edu.cn/",
+    "verified_on": "2026-06-23",
+    "volatile": true
+  },
+  {
+    "category": "奖助学金、评优及勤工助学",
+    "question": "临时困难补助适合什么情况？",
+    "official_source": "http://xsb.scnu.edu.cn/",
+    "verified_on": "2026-06-23",
+    "volatile": true
+  },
+  {
+    "category": "奖助学金、评优及勤工助学",
+    "question": "申请资助需要公开家庭隐私吗？",
+    "official_source": "http://xsb.scnu.edu.cn/",
+    "verified_on": "2026-06-23",
+    "volatile": true
+  },
+  {
+    "category": "奖助学金、评优及勤工助学",
+    "question": "生源地信用助学贷款回执怎么办理？",
+    "official_source": "http://xsb.scnu.edu.cn/",
+    "verified_on": "2026-06-23",
+    "volatile": true
+  },
+  {
+    "category": "奖助学金、评优及勤工助学",
+    "question": "校园地助学贷款在哪里咨询？",
+    "official_source": "http://xsb.scnu.edu.cn/",
+    "verified_on": "2026-06-23",
+    "volatile": true
+  },
+  {
+    "category": "奖助学金、评优及勤工助学",
+    "question": "勤工助学岗位在哪里报名？",
+    "official_source": "http://xsb.scnu.edu.cn/",
+    "verified_on": "2026-06-23",
+    "volatile": true
+  },
+  {
+    "category": "奖助学金、评优及勤工助学",
+    "question": "勤工助学工资没到账怎么办？",
+    "official_source": "http://xsb.scnu.edu.cn/",
+    "verified_on": "2026-06-23",
+    "volatile": true
+  },
+  {
+    "category": "奖助学金、评优及勤工助学",
+    "question": "校外兼职属于学校勤工助学吗？",
+    "official_source": "http://xsb.scnu.edu.cn/",
+    "verified_on": "2026-06-23",
+    "volatile": true
+  },
+  {
+    "category": "奖助学金、评优及勤工助学",
+    "question": "三好学生怎么评选？",
+    "official_source": "http://xsb.scnu.edu.cn/",
+    "verified_on": "2026-06-23",
+    "volatile": true
+  },
+  {
+    "category": "奖助学金、评优及勤工助学",
+    "question": "优秀学生干部如何申报？",
+    "official_source": "http://xsb.scnu.edu.cn/",
+    "verified_on": "2026-06-23",
+    "volatile": true
+  },
+  {
+    "category": "奖助学金、评优及勤工助学",
+    "question": "处分期间可以参加评优吗？",
+    "official_source": "http://xsb.scnu.edu.cn/",
+    "verified_on": "2026-06-23",
+    "volatile": true
+  },
+  {
+    "category": "奖助学金、评优及勤工助学",
+    "question": "奖学金材料漏交了怎么办？",
+    "official_source": "http://xsb.scnu.edu.cn/",
+    "verified_on": "2026-06-23",
+    "volatile": true
+  },
+  {
+    "category": "奖助学金、评优及勤工助学",
+    "question": "奖助评审结果在哪里公示？",
+    "official_source": "http://xsb.scnu.edu.cn/",
+    "verified_on": "2026-06-23",
+    "volatile": true
+  },
+  {
+    "category": "奖助学金、评优及勤工助学",
+    "question": "对奖助评审结果有异议怎么办？",
+    "official_source": "http://xsb.scnu.edu.cn/",
+    "verified_on": "2026-06-23",
+    "volatile": true
+  },
+  {
+    "category": "奖助学金、评优及勤工助学",
+    "question": "受资助后银行卡换了怎么办？",
+    "official_source": "http://xsb.scnu.edu.cn/",
+    "verified_on": "2026-06-23",
+    "volatile": true
+  },
+  {
+    "category": "奖助学金、评优及勤工助学",
+    "question": "资助政策诈骗怎么识别？",
+    "official_source": "http://xsb.scnu.edu.cn/",
+    "verified_on": "2026-06-23",
+    "volatile": true
+  },
+  {
+    "category": "图书馆服务",
+    "question": "华师图书馆馆藏怎么查？",
+    "official_source": "https://lib.scnu.edu.cn/",
+    "verified_on": "2026-06-23",
+    "volatile": true
+  },
+  {
+    "category": "图书馆服务",
+    "question": "借书需要带什么？",
+    "official_source": "https://lib.scnu.edu.cn/",
+    "verified_on": "2026-06-23",
+    "volatile": true
+  },
+  {
+    "category": "图书馆服务",
+    "question": "借阅记录和还书日期在哪里看？",
+    "official_source": "https://lib.scnu.edu.cn/",
+    "verified_on": "2026-06-23",
+    "volatile": true
+  },
+  {
+    "category": "图书馆服务",
+    "question": "图书怎么续借？",
+    "official_source": "https://lib.scnu.edu.cn/",
+    "verified_on": "2026-06-23",
+    "volatile": true
+  },
+  {
+    "category": "图书馆服务",
+    "question": "书已经借出可以预约吗？",
+    "official_source": "https://lib.scnu.edu.cn/",
+    "verified_on": "2026-06-23",
+    "volatile": true
+  },
+  {
+    "category": "图书馆服务",
+    "question": "不同校区图书可以通借通还吗？",
+    "official_source": "https://lib.scnu.edu.cn/",
+    "verified_on": "2026-06-23",
+    "volatile": true
+  },
+  {
+    "category": "图书馆服务",
+    "question": "图书逾期了怎么办？",
+    "official_source": "https://lib.scnu.edu.cn/",
+    "verified_on": "2026-06-23",
+    "volatile": true
+  },
+  {
+    "category": "图书馆服务",
+    "question": "图书丢失怎么处理？",
+    "official_source": "https://lib.scnu.edu.cn/",
+    "verified_on": "2026-06-23",
+    "volatile": true
+  },
+  {
+    "category": "图书馆服务",
+    "question": "校外如何使用图书馆数据库？",
+    "official_source": "https://lib.scnu.edu.cn/",
+    "verified_on": "2026-06-23",
+    "volatile": true
+  },
+  {
+    "category": "图书馆服务",
+    "question": "数据库全文下载失败怎么办？",
+    "official_source": "https://lib.scnu.edu.cn/",
+    "verified_on": "2026-06-23",
+    "volatile": true
+  },
+  {
+    "category": "图书馆服务",
+    "question": "图书馆研讨间怎么预约？",
+    "official_source": "https://lib.scnu.edu.cn/",
+    "verified_on": "2026-06-23",
+    "volatile": true
+  },
+  {
+    "category": "图书馆服务",
+    "question": "自习座位怎么预约？",
+    "official_source": "https://lib.scnu.edu.cn/",
+    "verified_on": "2026-06-23",
+    "volatile": true
+  },
+  {
+    "category": "图书馆服务",
+    "question": "在图书馆遗失物品怎么办？",
+    "official_source": "https://lib.scnu.edu.cn/",
+    "verified_on": "2026-06-23",
+    "volatile": true
+  },
+  {
+    "category": "图书馆服务",
+    "question": "图书馆开放时间在哪里查？",
+    "official_source": "https://lib.scnu.edu.cn/",
+    "verified_on": "2026-06-23",
+    "volatile": true
+  },
+  {
+    "category": "图书馆服务",
+    "question": "怎么向图书馆推荐购买一本书？",
+    "official_source": "https://lib.scnu.edu.cn/",
+    "verified_on": "2026-06-23",
+    "volatile": true
+  },
+  {
+    "category": "就业、实习及创新创业",
+    "question": "华师招聘信息在哪里看？",
+    "official_source": "https://career.scnu.edu.cn/",
+    "verified_on": "2026-06-23",
+    "volatile": true
+  },
+  {
+    "category": "就业、实习及创新创业",
+    "question": "就业推荐表怎么申请？",
+    "official_source": "https://career.scnu.edu.cn/",
+    "verified_on": "2026-06-23",
+    "volatile": true
+  },
+  {
+    "category": "就业、实习及创新创业",
+    "question": "就业协议在哪里办理？",
+    "official_source": "https://career.scnu.edu.cn/",
+    "verified_on": "2026-06-23",
+    "volatile": true
+  },
+  {
+    "category": "就业、实习及创新创业",
+    "question": "签约后想解约怎么办？",
+    "official_source": "https://career.scnu.edu.cn/",
+    "verified_on": "2026-06-23",
+    "volatile": true
+  },
+  {
+    "category": "就业、实习及创新创业",
+    "question": "毕业去向需要自己登记吗？",
+    "official_source": "https://career.scnu.edu.cn/",
+    "verified_on": "2026-06-23",
+    "volatile": true
+  },
+  {
+    "category": "就业、实习及创新创业",
+    "question": "就业信息填错了怎么修改？",
+    "official_source": "https://career.scnu.edu.cn/",
+    "verified_on": "2026-06-23",
+    "volatile": true
+  },
+  {
+    "category": "就业、实习及创新创业",
+    "question": "档案寄到哪里怎么确认？",
+    "official_source": "https://career.scnu.edu.cn/",
+    "verified_on": "2026-06-23",
+    "volatile": true
+  },
+  {
+    "category": "就业、实习及创新创业",
+    "question": "报到证现在还需要办理吗？",
+    "official_source": "https://career.scnu.edu.cn/",
+    "verified_on": "2026-06-23",
+    "volatile": true
+  },
+  {
+    "category": "就业、实习及创新创业",
+    "question": "校园招聘要求交培训费可信吗？",
+    "official_source": "https://career.scnu.edu.cn/",
+    "verified_on": "2026-06-23",
+    "volatile": true
+  },
+  {
+    "category": "就业、实习及创新创业",
+    "question": "怎么预约就业咨询？",
+    "official_source": "https://career.scnu.edu.cn/",
+    "verified_on": "2026-06-23",
+    "volatile": true
+  },
+  {
+    "category": "就业、实习及创新创业",
+    "question": "简历可以在哪里获得指导？",
+    "official_source": "https://career.scnu.edu.cn/",
+    "verified_on": "2026-06-23",
+    "volatile": true
+  },
+  {
+    "category": "就业、实习及创新创业",
+    "question": "实习证明需要学校盖章怎么办？",
+    "official_source": "https://career.scnu.edu.cn/",
+    "verified_on": "2026-06-23",
+    "volatile": true
+  },
+  {
+    "category": "就业、实习及创新创业",
+    "question": "实习期间发生安全事故怎么办？",
+    "official_source": "https://career.scnu.edu.cn/",
+    "verified_on": "2026-06-23",
+    "volatile": true
+  },
+  {
+    "category": "就业、实习及创新创业",
+    "question": "大学生创新创业项目在哪里申报？",
+    "official_source": "https://career.scnu.edu.cn/",
+    "verified_on": "2026-06-23",
+    "volatile": true
+  },
+  {
+    "category": "就业、实习及创新创业",
+    "question": "创新创业项目结题要交什么？",
+    "official_source": "https://career.scnu.edu.cn/",
+    "verified_on": "2026-06-23",
+    "volatile": true
+  },
+  {
+    "category": "心理咨询、医疗、安全与请假",
+    "question": "想预约心理咨询怎么操作？",
+    "official_source": "https://psy.scnu.edu.cn/",
+    "verified_on": "2026-06-23",
+    "volatile": true
+  },
+  {
+    "category": "心理咨询、医疗、安全与请假",
+    "question": "心理咨询是免费的吗？",
+    "official_source": "https://psy.scnu.edu.cn/",
+    "verified_on": "2026-06-23",
+    "volatile": true
+  },
+  {
+    "category": "心理咨询、医疗、安全与请假",
+    "question": "有紧急自伤想法怎么办？",
+    "official_source": "https://psy.scnu.edu.cn/",
+    "verified_on": "2026-06-23",
+    "volatile": true
+  },
+  {
+    "category": "心理咨询、医疗、安全与请假",
+    "question": "同学情绪崩溃我该怎么办？",
+    "official_source": "https://psy.scnu.edu.cn/",
+    "verified_on": "2026-06-23",
+    "volatile": true
+  },
+  {
+    "category": "心理咨询、医疗、安全与请假",
+    "question": "心理咨询预约后不能去怎么办？",
+    "official_source": "https://psy.scnu.edu.cn/",
+    "verified_on": "2026-06-23",
+    "volatile": true
+  },
+  {
+    "category": "心理咨询、医疗、安全与请假",
+    "question": "心理咨询记录会影响评奖就业吗？",
+    "official_source": "https://psy.scnu.edu.cn/",
+    "verified_on": "2026-06-23",
+    "volatile": true
+  },
+  {
+    "category": "心理咨询、医疗、安全与请假",
+    "question": "在校生生病去哪里看？",
+    "official_source": "https://psy.scnu.edu.cn/",
+    "verified_on": "2026-06-23",
+    "volatile": true
+  },
+  {
+    "category": "心理咨询、医疗、安全与请假",
+    "question": "校医院开放时间在哪里查？",
+    "official_source": "https://psy.scnu.edu.cn/",
+    "verified_on": "2026-06-23",
+    "volatile": true
+  },
+  {
+    "category": "心理咨询、医疗、安全与请假",
+    "question": "校外看病怎么报销？",
+    "official_source": "https://psy.scnu.edu.cn/",
+    "verified_on": "2026-06-23",
+    "volatile": true
+  },
+  {
+    "category": "心理咨询、医疗、安全与请假",
+    "question": "体育活动受伤怎么办？",
+    "official_source": "https://psy.scnu.edu.cn/",
+    "verified_on": "2026-06-23",
+    "volatile": true
+  },
+  {
+    "category": "心理咨询、医疗、安全与请假",
+    "question": "遇到校园诈骗应该怎么办？",
+    "official_source": "https://psy.scnu.edu.cn/",
+    "verified_on": "2026-06-23",
+    "volatile": true
+  },
+  {
+    "category": "心理咨询、医疗、安全与请假",
+    "question": "身份证在校园丢了怎么办？",
+    "official_source": "https://psy.scnu.edu.cn/",
+    "verified_on": "2026-06-23",
+    "volatile": true
+  },
+  {
+    "category": "心理咨询、医疗、安全与请假",
+    "question": "校园内遇到人身威胁怎么办？",
+    "official_source": "https://psy.scnu.edu.cn/",
+    "verified_on": "2026-06-23",
+    "volatile": true
+  },
+  {
+    "category": "心理咨询、医疗、安全与请假",
+    "question": "因病请假怎么申请？",
+    "official_source": "https://psy.scnu.edu.cn/",
+    "verified_on": "2026-06-23",
+    "volatile": true
+  },
+  {
+    "category": "心理咨询、医疗、安全与请假",
+    "question": "请假结束后要销假吗？",
+    "official_source": "https://psy.scnu.edu.cn/",
+    "verified_on": "2026-06-23",
+    "volatile": true
+  },
+  {
+    "category": "三校区交通及校园生活",
+    "question": "石牌校园地址是什么？",
+    "official_source": "https://www.scnu.edu.cn/",
+    "verified_on": "2026-06-23",
+    "volatile": true
+  },
+  {
+    "category": "三校区交通及校园生活",
+    "question": "大学城校园地址是什么？",
+    "official_source": "https://www.scnu.edu.cn/",
+    "verified_on": "2026-06-23",
+    "volatile": true
+  },
+  {
+    "category": "三校区交通及校园生活",
+    "question": "佛山校区南海校园在哪里？",
+    "official_source": "https://www.scnu.edu.cn/",
+    "verified_on": "2026-06-23",
+    "volatile": true
+  },
+  {
+    "category": "三校区交通及校园生活",
+    "question": "怎么确认自己的学院在哪个校区？",
+    "official_source": "https://www.scnu.edu.cn/",
+    "verified_on": "2026-06-23",
+    "volatile": true
+  },
+  {
+    "category": "三校区交通及校园生活",
+    "question": "跨校区上课要注意什么？",
+    "official_source": "https://www.scnu.edu.cn/",
+    "verified_on": "2026-06-23",
+    "volatile": true
+  },
+  {
+    "category": "三校区交通及校园生活",
+    "question": "校车时刻表在哪里看？",
+    "official_source": "https://www.scnu.edu.cn/",
+    "verified_on": "2026-06-23",
+    "volatile": true
+  },
+  {
+    "category": "三校区交通及校园生活",
+    "question": "新生报到应该去哪个校区？",
+    "official_source": "https://www.scnu.edu.cn/",
+    "verified_on": "2026-06-23",
+    "volatile": true
+  },
+  {
+    "category": "三校区交通及校园生活",
+    "question": "快递地址怎么填写？",
+    "official_source": "https://www.scnu.edu.cn/",
+    "verified_on": "2026-06-23",
+    "volatile": true
+  },
+  {
+    "category": "三校区交通及校园生活",
+    "question": "校园里迷路怎么找教学楼？",
+    "official_source": "https://www.scnu.edu.cn/",
+    "verified_on": "2026-06-23",
+    "volatile": true
+  },
+  {
+    "category": "三校区交通及校园生活",
+    "question": "校内活动地点写“行政楼”够明确吗？",
+    "official_source": "https://www.scnu.edu.cn/",
+    "verified_on": "2026-06-23",
+    "volatile": true
+  },
+  {
+    "category": "三校区交通及校园生活",
+    "question": "外卖能送进宿舍楼吗？",
+    "official_source": "https://www.scnu.edu.cn/",
+    "verified_on": "2026-06-23",
+    "volatile": true
+  },
+  {
+    "category": "三校区交通及校园生活",
+    "question": "在哪里查询食堂开放安排？",
+    "official_source": "https://www.scnu.edu.cn/",
+    "verified_on": "2026-06-23",
+    "volatile": true
+  },
+  {
+    "category": "三校区交通及校园生活",
+    "question": "校内丢东西去哪里找？",
+    "official_source": "https://www.scnu.edu.cn/",
+    "verified_on": "2026-06-23",
+    "volatile": true
+  },
+  {
+    "category": "三校区交通及校园生活",
+    "question": "校园开放政策在哪里查？",
+    "official_source": "https://www.scnu.edu.cn/",
+    "verified_on": "2026-06-23",
+    "volatile": true
+  },
+  {
+    "category": "三校区交通及校园生活",
+    "question": "亲友来校参观怎么预约？",
+    "official_source": "https://www.scnu.edu.cn/",
+    "verified_on": "2026-06-23",
+    "volatile": true
+  },
+  {
+    "category": "社团、体育及其他学生事务",
+    "question": "学生社团在哪里报名？",
+    "official_source": "https://youth.scnu.edu.cn/",
+    "verified_on": "2026-06-23",
+    "volatile": true
+  },
+  {
+    "category": "社团、体育及其他学生事务",
+    "question": "成立新社团需要什么流程？",
+    "official_source": "https://youth.scnu.edu.cn/",
+    "verified_on": "2026-06-23",
+    "volatile": true
+  },
+  {
+    "category": "社团、体育及其他学生事务",
+    "question": "参加志愿服务怎么记录时长？",
+    "official_source": "https://youth.scnu.edu.cn/",
+    "verified_on": "2026-06-23",
+    "volatile": true
+  },
+  {
+    "category": "社团、体育及其他学生事务",
+    "question": "志愿时长有错误怎么办？",
+    "official_source": "https://youth.scnu.edu.cn/",
+    "verified_on": "2026-06-23",
+    "volatile": true
+  },
+  {
+    "category": "社团、体育及其他学生事务",
+    "question": "体育场馆怎么预约？",
+    "official_source": "https://youth.scnu.edu.cn/",
+    "verified_on": "2026-06-23",
+    "volatile": true
+  },
+  {
+    "category": "社团、体育及其他学生事务",
+    "question": "校园活动申请场地怎么办？",
+    "official_source": "https://youth.scnu.edu.cn/",
+    "verified_on": "2026-06-23",
+    "volatile": true
+  },
+  {
+    "category": "社团、体育及其他学生事务",
+    "question": "大型活动需要安全预案吗？",
+    "official_source": "https://youth.scnu.edu.cn/",
+    "verified_on": "2026-06-23",
+    "volatile": true
+  },
+  {
+    "category": "社团、体育及其他学生事务",
+    "question": "团组织关系转入怎么操作？",
+    "official_source": "https://youth.scnu.edu.cn/",
+    "verified_on": "2026-06-23",
+    "volatile": true
+  },
+  {
+    "category": "社团、体育及其他学生事务",
+    "question": "第二课堂活动在哪里查询？",
+    "official_source": "https://youth.scnu.edu.cn/",
+    "verified_on": "2026-06-23",
+    "volatile": true
+  },
+  {
+    "category": "社团、体育及其他学生事务",
+    "question": "活动学分记录有误找谁？",
+    "official_source": "https://youth.scnu.edu.cn/",
+    "verified_on": "2026-06-23",
+    "volatile": true
+  },
+  {
+    "category": "学校概况与咨询渠道",
+    "question": "华南师范大学的官方主页是什么？",
+    "official_source": "https://www.scnu.edu.cn/",
+    "verified_on": "2026-06-23",
+    "volatile": false
+  },
+  {
+    "category": "学校概况与咨询渠道",
+    "question": "华南师范大学有哪几个校园？",
+    "official_source": "https://www.scnu.edu.cn/",
+    "verified_on": "2026-06-23",
+    "volatile": false
+  },
+  {
+    "category": "学校概况与咨询渠道",
+    "question": "如何判断一条华师通知是否可信？",
+    "official_source": "https://www.scnu.edu.cn/",
+    "verified_on": "2026-06-23",
+    "volatile": false
+  },
+  {
+    "category": "学校概况与咨询渠道",
+    "question": "校园问题不知道归哪个部门怎么办？",
+    "official_source": "https://www.scnu.edu.cn/",
+    "verified_on": "2026-06-23",
+    "volatile": false
+  },
+  {
+    "category": "学校概况与咨询渠道",
+    "question": "学校通知与群消息不一致听哪个？",
+    "official_source": "https://www.scnu.edu.cn/",
+    "verified_on": "2026-06-23",
+    "volatile": false
+  }
+]

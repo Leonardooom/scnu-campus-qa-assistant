@@ -1,0 +1,405 @@
+{
+  "generated_on": "2026-06-23",
+  "count": 22,
+  "documents": [
+    {
+      "slug": "lib_borrow_card",
+      "title": "借阅证管理办法 - 华南师范大学图书馆",
+      "category": "图书馆",
+      "source_url": "https://lib.scnu.edu.cn/guide/jieyuezhenguanlibanfa/",
+      "source_site": "lib.scnu.edu.cn",
+      "last_checked": "2026-06-23",
+      "is_time_sensitive": true,
+      "keywords": [
+        "借阅证",
+        "借阅权限",
+        "续借次数",
+        "预约",
+        "委托",
+        "全日制学生"
+      ],
+      "content_length": 1972
+    },
+    {
+      "slug": "lib_cross_campus",
+      "title": "想要的书被借走/在其他校园怎么办？（预约/跨校园委托借阅） - 纸质资源获取 - 华南师范大学图书馆",
+      "category": "图书馆",
+      "source_url": "https://lib.scnu.edu.cn/a/20240709/2502.html",
+      "source_site": "lib.scnu.edu.cn",
+      "last_checked": "2026-06-23",
+      "is_time_sensitive": true,
+      "keywords": [
+        "图书馆",
+        "预约",
+        "跨校园",
+        "委托借阅",
+        "馆藏查询",
+        "微信公众号"
+      ],
+      "content_length": 713
+    },
+    {
+      "slug": "lib_faq",
+      "title": "常见问题解答 - 华南师范大学图书馆",
+      "category": "图书馆",
+      "source_url": "https://lib.scnu.edu.cn/guide/changjianwentijieda/",
+      "source_site": "lib.scnu.edu.cn",
+      "last_checked": "2026-06-23",
+      "is_time_sensitive": true,
+      "keywords": [
+        "图书馆",
+        "续借",
+        "借阅",
+        "逾期",
+        "借书",
+        "我的图书馆",
+        "密码"
+      ],
+      "content_length": 16031
+    },
+    {
+      "slug": "lib_reader_rules",
+      "title": "读者管理与服务规定 - 华南师范大学图书馆",
+      "category": "图书馆",
+      "source_url": "https://lib.scnu.edu.cn/guide/duzheguanliyufuwu/",
+      "source_site": "lib.scnu.edu.cn",
+      "last_checked": "2026-06-23",
+      "is_time_sensitive": true,
+      "keywords": [
+        "入馆",
+        "借阅",
+        "校园卡",
+        "开放时间",
+        "预约",
+        "服务台"
+      ],
+      "content_length": 5094
+    },
+    {
+      "slug": "student_affairs_scholarship_tag",
+      "title": "奖学金 - 标签 - 华南师范大学党委学生工作部（党委研究生工作部）",
+      "category": "奖助与学生事务",
+      "source_url": "https://module.scnu.edu.cn/tag-3358-%E5%A5%96%E5%AD%A6%E9%87%91-11-74.html",
+      "source_site": "module.scnu.edu.cn",
+      "last_checked": "2026-06-23",
+      "is_time_sensitive": true,
+      "keywords": [
+        "奖学金",
+        "学生工作部",
+        "通知公告",
+        "国家奖学金",
+        "国家励志奖学金",
+        "评选"
+      ],
+      "content_length": 740
+    },
+    {
+      "slug": "student_aid_intro_pdf",
+      "title": "华南师范大学学生资助工作简介",
+      "category": "奖助与学生事务",
+      "source_url": "https://statics.scnu.edu.cn/pics//2017/1023/1508746326748451.pdf",
+      "source_site": "statics.scnu.edu.cn",
+      "last_checked": "2026-06-23",
+      "is_time_sensitive": true,
+      "keywords": [
+        "学生资助",
+        "国家奖学金",
+        "国家助学金",
+        "勤工助学",
+        "临时困难补助",
+        "绿色通道"
+      ],
+      "content_length": 1307
+    },
+    {
+      "slug": "student_aid_tag",
+      "title": "资助 - 标签 - 华南师范大学党委学生工作部（党委研究生工作部）",
+      "category": "奖助与学生事务",
+      "source_url": "https://module.scnu.edu.cn/tag-3358-%E8%B5%84%E5%8A%A9-1-74.html",
+      "source_site": "module.scnu.edu.cn",
+      "last_checked": "2026-06-23",
+      "is_time_sensitive": true,
+      "keywords": [
+        "资助",
+        "助学贷款",
+        "家庭经济困难",
+        "学生资助政策",
+        "绿色通道"
+      ],
+      "content_length": 149
+    },
+    {
+      "slug": "hqc_home",
+      "title": "华南师范大学后勤管理处",
+      "category": "宿舍与后勤",
+      "source_url": "https://hqc.scnu.edu.cn/",
+      "source_site": "hqc.scnu.edu.cn",
+      "last_checked": "2026-06-23",
+      "is_time_sensitive": true,
+      "keywords": [
+        "后勤",
+        "报修",
+        "宿管中心",
+        "物业中心",
+        "服务电话",
+        "石牌",
+        "大学城"
+      ],
+      "content_length": 1529
+    },
+    {
+      "slug": "swc_repair",
+      "title": "校区概况",
+      "category": "宿舍与后勤",
+      "source_url": "https://swc.scnu.edu.cn/a/20250227/50.html",
+      "source_site": "swc.scnu.edu.cn",
+      "last_checked": "2026-06-23",
+      "is_time_sensitive": true,
+      "keywords": [
+        "报修",
+        "维修",
+        "宿舍",
+        "空调",
+        "门锁",
+        "24小时",
+        "响应时间"
+      ],
+      "content_length": 833
+    },
+    {
+      "slug": "career_home",
+      "title": "华南师范大学",
+      "category": "就业",
+      "source_url": "https://career.scnu.edu.cn/",
+      "source_site": "career.scnu.edu.cn",
+      "last_checked": "2026-06-23",
+      "is_time_sensitive": true,
+      "keywords": [
+        "就业",
+        "就业指导中心",
+        "实习",
+        "宣讲会",
+        "双选会",
+        "联系方式"
+      ],
+      "content_length": 1680
+    },
+    {
+      "slug": "career_student_service",
+      "title": "栏目信息-学生服务",
+      "category": "就业",
+      "source_url": "https://career.scnu.edu.cn/module/news?type_id=20456",
+      "source_site": "career.scnu.edu.cn",
+      "last_checked": "2026-06-23",
+      "is_time_sensitive": true,
+      "keywords": [
+        "就业手续",
+        "毕业生",
+        "学生服务",
+        "办理指导手册",
+        "就业平台"
+      ],
+      "content_length": 218
+    },
+    {
+      "slug": "psychology_service_contacts",
+      "title": "机构设置",
+      "category": "心理",
+      "source_url": "https://swc.scnu.edu.cn/organization/dangzhengzhinengbumen/2025/0904/2.html",
+      "source_site": "swc.scnu.edu.cn",
+      "last_checked": "2026-06-23",
+      "is_time_sensitive": true,
+      "keywords": [
+        "心理咨询",
+        "心理健康教育与咨询中心",
+        "学生事务管理办公室",
+        "汕尾校区",
+        "联系方式"
+      ],
+      "content_length": 2385
+    },
+    {
+      "slug": "jw_department_contacts",
+      "title": "关于我们",
+      "category": "教务",
+      "source_url": "https://jw.scnu.edu.cn/about/dept/",
+      "source_site": "jw.scnu.edu.cn",
+      "last_checked": "2026-06-23",
+      "is_time_sensitive": true,
+      "keywords": [
+        "本科生院",
+        "教务处",
+        "成绩管理",
+        "学籍管理",
+        "排课",
+        "排考",
+        "联系方式"
+      ],
+      "content_length": 3763
+    },
+    {
+      "slug": "jw_regulations",
+      "title": "规章制度 - 华南师范大学教务处",
+      "category": "教务",
+      "source_url": "https://jw.scnu.edu.cn/guizhangzhidu/",
+      "source_site": "jw.scnu.edu.cn",
+      "last_checked": "2026-06-23",
+      "is_time_sensitive": true,
+      "keywords": [
+        "学籍管理",
+        "成绩管理",
+        "转专业",
+        "辅修",
+        "毕业",
+        "学位",
+        "缓考",
+        "考试"
+      ],
+      "content_length": 1421
+    },
+    {
+      "slug": "jw_site_map",
+      "title": "华南师范大学本科生院",
+      "category": "教务",
+      "source_url": "https://jw.scnu.edu.cn/wzdt/",
+      "source_site": "jw.scnu.edu.cn",
+      "last_checked": "2026-06-23",
+      "is_time_sensitive": true,
+      "keywords": [
+        "教务",
+        "成绩",
+        "选课",
+        "课表",
+        "学籍",
+        "考试",
+        "毕业",
+        "学位"
+      ],
+      "content_length": 882
+    },
+    {
+      "slug": "nc_self_print",
+      "title": "自助打印服务 - 基础服务 - 华南师范大学网络信息中心",
+      "category": "教务",
+      "source_url": "https://nc.scnu.edu.cn/a/20200330/387.html",
+      "source_site": "nc.scnu.edu.cn",
+      "last_checked": "2026-06-23",
+      "is_time_sensitive": true,
+      "keywords": [
+        "自助打印",
+        "成绩单",
+        "在读证明",
+        "课程修读证明",
+        "统一身份认证"
+      ],
+      "content_length": 3769
+    },
+    {
+      "slug": "nc_campus_card_guide",
+      "title": "华南师范大学一卡通校园卡使用指南 - 新闻公告 - 华南师范大学网络信息中心",
+      "category": "校园卡与网络",
+      "source_url": "https://nc.scnu.edu.cn/a/20140421/168.html",
+      "source_site": "nc.scnu.edu.cn",
+      "last_checked": "2026-06-23",
+      "is_time_sensitive": true,
+      "keywords": [
+        "校园卡",
+        "挂失",
+        "解挂",
+        "补办",
+        "注销",
+        "一卡通服务大厅"
+      ],
+      "content_length": 4769
+    },
+    {
+      "slug": "nc_card_service",
+      "title": "一卡通服务 - 基础服务 - 华南师范大学网络信息中心",
+      "category": "校园卡与网络",
+      "source_url": "https://nc.scnu.edu.cn/a/20190709/342.html",
+      "source_site": "nc.scnu.edu.cn",
+      "last_checked": "2026-06-23",
+      "is_time_sensitive": true,
+      "keywords": [
+        "一卡通",
+        "校园卡",
+        "充值",
+        "微信充值",
+        "三校区",
+        "服务电话"
+      ],
+      "content_length": 755
+    },
+    {
+      "slug": "nc_home",
+      "title": "主动融入、创新服务",
+      "category": "校园卡与网络",
+      "source_url": "https://nc.scnu.edu.cn/",
+      "source_site": "nc.scnu.edu.cn",
+      "last_checked": "2026-06-23",
+      "is_time_sensitive": true,
+      "keywords": [
+        "网络信息中心",
+        "校园网",
+        "师生服务中心",
+        "一站式办事",
+        "正版化服务"
+      ],
+      "content_length": 2392
+    },
+    {
+      "slug": "nc_identity_notice",
+      "title": "关于电子身份注册中心平台上线及一卡通申请流程调整的通知 - 新闻公告 - 华南师范大学网络信息中心",
+      "category": "校园卡与网络",
+      "source_url": "https://nc.scnu.edu.cn/a/20220909/663.html",
+      "source_site": "nc.scnu.edu.cn",
+      "last_checked": "2026-06-23",
+      "is_time_sensitive": true,
+      "keywords": [
+        "电子身份",
+        "一卡通",
+        "门禁",
+        "校园网",
+        "交换生",
+        "注册中心"
+      ],
+      "content_length": 2055
+    },
+    {
+      "slug": "nc_wifi_pdf",
+      "title": "校园无线网 SCNUNET 使用说明",
+      "category": "校园卡与网络",
+      "source_url": "https://statics.scnu.edu.cn/pics/nc/2024/0308/1709861622262756.pdf",
+      "source_site": "statics.scnu.edu.cn",
+      "last_checked": "2026-06-23",
+      "is_time_sensitive": true,
+      "keywords": [
+        "SCNUNET",
+        "校园无线网",
+        "wifi.scnu.edu.cn",
+        "无感认证",
+        "统一身份认证"
+      ],
+      "content_length": 1090
+    },
+    {
+      "slug": "sso_login",
+      "title": "统一身份认证登录说明",
+      "category": "校园卡与网络",
+      "source_url": "https://sso.scnu.edu.cn/",
+      "source_site": "sso.scnu.edu.cn",
+      "last_checked": "2026-06-23",
+      "is_time_sensitive": true,
+      "keywords": [
+        "统一身份认证",
+        "账号",
+        "密码",
+        "学号",
+        "一卡通号",
+        "初始密码"
+      ],
+      "content_length": 113
+    }
+  ],
+  "errors": []
+}
