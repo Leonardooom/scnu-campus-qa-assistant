@@ -27,7 +27,8 @@
 - `generated_scnu_rag/`：RAG 语料与索引数据
 - `test result images/`：基础模型、LoRA、LoRA+RAG 的实验截图
 - `实验结果对比表.md`：实验结果整理
-- `模式2完整报告初稿.md`：课程报告初稿
+- `报告.md`：课程报告
+- `报告.pdf`：课程报告
 
 ## 数据与知识库
 
